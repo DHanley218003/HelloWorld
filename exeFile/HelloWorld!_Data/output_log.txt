@@ -1,0 +1,70 @@
+Initialize engine version: 5.1.3f1 (b0a23b31c3d8)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 760 (ID=0x1187)
+    Vendor:   NVIDIA
+    VRAM:     1991 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\a00218003\Desktop\HelloWorld!\exeFile\HelloWorld!_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\a00218003\Desktop\HelloWorld!\exeFile\HelloWorld!_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\a00218003\Desktop\HelloWorld!\exeFile\HelloWorld!_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\a00218003\Desktop\HelloWorld!\exeFile\HelloWorld!_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\a00218003\Desktop\HelloWorld!\exeFile\HelloWorld!_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\a00218003\Desktop\HelloWorld!\exeFile\HelloWorld!_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\a00218003\Desktop\HelloWorld!\exeFile\HelloWorld!_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\a00218003\Desktop\HelloWorld!\exeFile\HelloWorld!_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\a00218003\Desktop\HelloWorld!\exeFile\HelloWorld!_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\a00218003\Desktop\HelloWorld!\exeFile\HelloWorld!_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\a00218003\Desktop\HelloWorld!\exeFile\HelloWorld!_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\a00218003\Desktop\HelloWorld!\exeFile\HelloWorld!_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\a00218003\Desktop\HelloWorld!\exeFile\HelloWorld!_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\a00218003\Desktop\HelloWorld!\exeFile\HelloWorld!_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\a00218003\Desktop\HelloWorld!\exeFile\HelloWorld!_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\a00218003\Desktop\HelloWorld!\exeFile\HelloWorld!_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\a00218003\Desktop\HelloWorld!\exeFile\HelloWorld!_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.255 seconds
+desktop: 1680x1050 120Hz; virtual: 1680x1050 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\a00218003\Desktop\HelloWorld!\exeFile\HelloWorld!_Data\Managed\System.dll (this message is harmless)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.496624 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 790.
+Total: 0.390055 ms (FindLiveObjects: 0.029406 ms CreateObjectMapping: 0.021638 ms MarkObjects: 0.332073 ms  DeleteObjects: 0.006658 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1bfc -> priority: 1 
+  Thread -> id: 13f8 -> priority: 1 
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.743490 ms
+
+Unloading 161 unused Assets to reduce memory usage. Loaded Objects now: 304.
+Total: 0.243576 ms (FindLiveObjects: 0.013316 ms CreateObjectMapping: 0.013871 ms MarkObjects: 0.150085 ms  DeleteObjects: 0.066026 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.449978 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 790.
+Total: 0.395880 ms (FindLiveObjects: 0.026077 ms CreateObjectMapping: 0.021084 ms MarkObjects: 0.341506 ms  DeleteObjects: 0.006935 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.740438 ms
+
+Unloading 161 unused Assets to reduce memory usage. Loaded Objects now: 304.
+Total: 0.542637 ms (FindLiveObjects: 0.082671 ms CreateObjectMapping: 0.016090 ms MarkObjects: 0.251621 ms  DeleteObjects: 0.191143 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.496585 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 790.
+Total: 0.356764 ms (FindLiveObjects: 0.020529 ms CreateObjectMapping: 0.019696 ms MarkObjects: 0.310435 ms  DeleteObjects: 0.005548 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.951556 ms
+
+Unloading 161 unused Assets to reduce memory usage. Loaded Objects now: 304.
+Total: 0.381455 ms (FindLiveObjects: 0.038561 ms CreateObjectMapping: 0.015813 ms MarkObjects: 0.236363 ms  DeleteObjects: 0.090162 ms)
+
